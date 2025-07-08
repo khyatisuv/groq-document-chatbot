@@ -22,8 +22,9 @@ Files
 
 How to Use
 
-1. Open the Colab notebook  
-2. Upload a PDF with 100+ pages  
-3. Run all code cells  
-4. Ask questions or generate a summary
+1. Open the Colab notebook
+2. Enter the APIs 
+3. Upload a PDF with 100+ pages 
+4. Run all code cells  
+5. Ask questions & generate a summary
    
